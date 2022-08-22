@@ -1,0 +1,5 @@
+It is very important to write code that is readable and efficient. In order to do so, you must be able to write small sections of code and test as you go. Also, when you are using CRUD, you must test it immediately after executing any part of CRUD. The advantages of working this way is that it can lead to efficient code that can be easily accessed and read. I plan on using CRUD whenever i need to make changes to a database. 
+
+As a computer scientist, i approach issues in small batches with an open mind to change. I am always looking for the obvious answer first, then diving deeper as i go. The way that i approached the projects was creating small sections of code, and utilizing my resources whenever i encounter an issue. I plan on using the same technique in the future. 
+
+Computer scientists have a major role in every corporation. They are responsible for all of the technology requires and executions that a company is looking to do. Projects like these can really help a compnay make changes or read data more efficiently. 
